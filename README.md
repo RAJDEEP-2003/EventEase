@@ -66,11 +66,11 @@ This project is a secure and user-friendly event registration system designed fo
 
 8. after creating database name click on import.
 
-9. browse the file in directory[event-management/database/events.sql].
+9. browse the file in directory[EventEase/database/events.sql].
 
 10. after importing successfully.
 
-11. open any browser and type http://localhost/event-management-master.
+11. open any browser and type http://localhost/EventEase-master.
 
 12. first register and then login
 
