@@ -41,11 +41,7 @@ This project is a secure and user-friendly event registration system designed fo
 	<li><b>Angular JS</b></li>
 	<li><b>React JS</b></li>
 	<li><b>AI/ML</b></li>
-</ul>
-<h2> Projects with installation support and code explaination for Premium contact phone: +919535688928 gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
 
-# Event-site
-helps to register an users for on events conducted in college fests with simple logic with secured way
 
 # Installation
 
@@ -58,7 +54,7 @@ helps to register an users for on events conducted in college fests with simple 
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone https://github.com/PuneethReddyHC/event-management.git
+    ii>git clone [https://github.com/PuneethReddyHC/event-management.git](https://github.com/RAJDEEP-2003/EventEase.git)
     
 4. extract files in C:\\xampp\htdocs\.
 
