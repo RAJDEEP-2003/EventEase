@@ -49,12 +49,12 @@ This project is a secure and user-friendly event registration system designed fo
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/event-management.git)  
+3. Download project from github https://github.com/RAJDEEP-2003/EventEase.git 
     OR follow gitbash commands
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone [https://github.com/PuneethReddyHC/event-management.git](https://github.com/RAJDEEP-2003/EventEase.git)
+    ii>git clone https://github.com/RAJDEEP-2003/EventEase.git
     
 4. extract files in C:\\xampp\htdocs\.
 
@@ -76,10 +76,7 @@ This project is a secure and user-friendly event registration system designed fo
 
 13. admin login details  Email=admin@gmail.com and Password=123456789.
 
-## If you like my project 
-Bye me Cup of coffee
 
-### Google pay or phonepay number 9535688928
 
 
 ## Screenshots
